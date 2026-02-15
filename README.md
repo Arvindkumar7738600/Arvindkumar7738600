@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Arvind Kumar</h1>
-<h2 align='center'>A passionate Data Science from Indian Institute Of Technology, Madras<h2>
-<h3 align="center">🚀 Data Science Student | 🧠 Future Data Analyst | 🚜 Founder @ KisanSevaPlus</h3>
+<h2 align='center'>A passionate Data Science student at IIT Madras, building impactful tech solutions.<h2>
+<h3 align="center">🚀 Data Science Student | 🧠  Data Analyst | 🚜 Founder @ KisanSevaPlus</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Data+Science+Student+at+IIT+Madras;Building+AgriTech+Solutions+for+India;Future+Tech+Entrepreneur;Hafto+ka+kaam+ganto+mein" />
@@ -9,6 +9,12 @@
 ## 🔥 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📊 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Arvindkumar7738600&theme=tokyonight)
+
 
 ---
 
