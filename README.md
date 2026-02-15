@@ -13,9 +13,9 @@
 ---
 
 ## 📊 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Arvindkumar7738600&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arvindkumar7738600&theme=tokyonight" />
+</p>
 ---
 
 ## 💻 Tech Stack
