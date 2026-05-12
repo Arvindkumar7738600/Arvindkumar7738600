@@ -52,7 +52,7 @@ Building a digital agriculture ecosystem to help farmers book tractors, rent mac
 - 📧 Email: arvindyadav7738600@gmail.com  
 - 🌍 Location: Ranchi, Jharkhand, India  
 - 💼 LinkedIn: www.linkedin.com/in/arvind-k-060656316 
-- 🚀 Startup Website: https://kisansevaplus.vercel.app  
+
 
 ---
 
